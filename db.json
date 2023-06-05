@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "id": 1,
+      "description": "Work Income"
+    },
+    {
+      "id": 2,
+      "description": "Water Bill"
+    },
+    {
+      "id": 3,
+      "description": "Rent"
+    },
+    {
+      "id": 4,
+      "description": "Power Bill"
+    },
+    {
+      "id": 5,
+      "description": "Another Bill"
+    }
+  ],
+  "values": [
+    {
+      "id": 1,
+      "value": 1000,
+      "isExpensive": false
+    },
+    {
+      "id": 2,
+      "value": 200,
+      "isExpensive": true
+    },
+    {
+      "id": 3,
+      "value": 300,
+      "isExpensive": true
+    },
+    {
+      "id": 4,
+      "value": 50,
+      "isExpensive": true
+    },
+    {
+      "id": 5,
+      "value": 2150,
+      "isExpensive": true
+    }
+  ]
+}
